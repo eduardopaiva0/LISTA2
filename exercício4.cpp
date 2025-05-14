@@ -11,6 +11,7 @@ int main(){
 	area = base * altura;
 	
 	if(area > 100){
+		cout << "A area do retangulo eh: " << area << endl;
 		cout << "Terreno grande";
 	}else{
 		cout << "A area do retangulo eh: " << area;
