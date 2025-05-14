@@ -21,4 +21,5 @@ int main(){
 	}else{
 		cout << "O maior numero eh o terceiro: " << num3;
 	}
+	return 0;
 }
