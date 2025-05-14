@@ -12,6 +12,8 @@ int main(){
 		cout << "O maior numero eh o: " << num1;
 	}else if(num2 > num1){
 		cout << "O maior numero eh o: " << num2;
+	}else{
+		cout << "Os dois numeros tem valores iguais";
 	}
 	return 0;
 }
