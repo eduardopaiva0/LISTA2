@@ -15,7 +15,7 @@ int main(){
 		cout << "Terreno grande";
 	}else{
 		cout << "A area do retangulo eh: " << area << endl;
-		cout << "Terreno pequeno;
+		cout << "Terreno pequeno";
 	}
 	return 0;
 }
